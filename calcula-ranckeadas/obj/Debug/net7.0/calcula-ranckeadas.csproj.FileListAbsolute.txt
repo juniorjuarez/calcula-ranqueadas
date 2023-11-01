@@ -1,0 +1,15 @@
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\bin\Debug\net7.0\calcula-ranckeadas.exe
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\bin\Debug\net7.0\calcula-ranckeadas.deps.json
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\bin\Debug\net7.0\calcula-ranckeadas.runtimeconfig.json
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\bin\Debug\net7.0\calcula-ranckeadas.dll
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\bin\Debug\net7.0\calcula-ranckeadas.pdb
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\calcula-ranckeadas.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\calcula-ranckeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\calcula-ranckeadas.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\calcula-ranckeadas.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\calcula-ranckeadas.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\calcula-ranckeadas.dll
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\refint\calcula-ranckeadas.dll
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\calcula-ranckeadas.pdb
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\calcula-ranckeadas.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Documentos\DIO_CURSOS\Potência-Tech-iFood-Programação-do-Zero\calcula-ranckeadas\calcula-ranckeadas\obj\Debug\net7.0\ref\calcula-ranckeadas.dll
